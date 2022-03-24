@@ -1,8 +1,6 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="AvatarNameDisplay" preserve="all" />
-    <type fullname="MyPhotonPool" preserve="all" />
-    <type fullname="SampleScene" preserve="all" />
   </assembly>
   <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityStandardAssets.Characters.ThirdPerson.ThirdPersonCharacter" preserve="all" />
